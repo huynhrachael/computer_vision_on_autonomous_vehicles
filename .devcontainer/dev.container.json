@@ -1,0 +1,16 @@
+{
+    "name": "computer_vision_on_autonomous_vehicles",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+
+    "hostRequirements": {
+        "storage": "128gb"
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
